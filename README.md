@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm Sam!
+# 👋 Hi there !
 
 💻 I'm a passionate **tech enthusiast** and **developer in progress** who loves exploring programming, problem-solving, and building cool projects.  
 🚀 Currently focused on improving my **Python**, **DSA**, and **Web Development** skills.  
